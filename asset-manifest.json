@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/system_budget_react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/system_budget_react/static/js/main.2036dd41.chunk.js",
+    "main.js.map": "/system_budget_react/static/js/main.2036dd41.chunk.js.map",
+    "runtime-main.js": "/system_budget_react/static/js/runtime-main.da40da22.js",
+    "runtime-main.js.map": "/system_budget_react/static/js/runtime-main.da40da22.js.map",
+    "static/css/2.6b21e229.chunk.css": "/system_budget_react/static/css/2.6b21e229.chunk.css",
+    "static/js/2.41bf8484.chunk.js": "/system_budget_react/static/js/2.41bf8484.chunk.js",
+    "static/js/2.41bf8484.chunk.js.map": "/system_budget_react/static/js/2.41bf8484.chunk.js.map",
+    "index.html": "/system_budget_react/index.html",
+    "static/css/2.6b21e229.chunk.css.map": "/system_budget_react/static/css/2.6b21e229.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/system_budget_react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.41bf8484.chunk.js.LICENSE.txt": "/system_budget_react/static/js/2.41bf8484.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/system_budget_react/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da40da22.js",
+    "static/css/2.6b21e229.chunk.css",
+    "static/js/2.41bf8484.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.2036dd41.chunk.js"
+  ]
+}
